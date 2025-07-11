@@ -16,4 +16,4 @@
     4. Mid-senior level roles make up a significant portion of postings.
     5. Technology-related roles (like software engineer and data engineer) have specific skill requirements such as Agile, AI and Machine Learning.
 
-Video Link for Interactive Dashboard https://youtu.be/unniP84rdO0
+Video Link for Interactive Dashboard https://shorturl.at/GV4DN
